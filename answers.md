@@ -12,7 +12,7 @@ Place all written answers from `assignment-05.md` here for easier grading.
 
 - **1a.**
 
-The greedy algorithms would involve figuring out what power of 2 is the highest such that 2$^k$ is less than N. We recursively repeat this process until we 
+The greedy algorithms would involve figuring out what power of 2 is the highest such that 2^k is less than N. We recursively repeat this process until we 
 get a final answer that adds up to N. Since all coins are powers of 2, this algorithm is optimal. 
 
 
